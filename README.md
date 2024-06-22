@@ -1,5 +1,4 @@
 # SOLAR-Rock-vs-Mine-Prediction
-# SOLAR Rock vs Mine Prediction with Python
 
 ## Overview
 This project aims to classify objects detected by a submarine sonar as either a Mine (M) or a Rock (R). Using a supervised learning approach, we employ a Logistic Regression model to handle this binary classification problem.
